@@ -48,9 +48,3 @@ POST	/api/rides/book	Book a ride
 GET	/api/rides/history	Get ride history
 📜 License
 This project is open-source. Feel free to modify and contribute! 🚀
-
-vbnet
-Copy
-Edit
-
-Now just **paste it into your `README.md` file**, and you're done! 🚀😃
